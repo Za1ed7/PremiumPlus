@@ -1,0 +1,19 @@
+{
+  "servers": [
+    {
+      "protocol": "vless",
+      "address": "195.189.98.106",
+      "port": 8443,
+      "id": "0d9d40c1-a8ce-4124-81ee-28bf6bbf6f74",
+      "encryption": "none",
+      "flow": "xtls-rprx-vision",
+      "security": "reality",
+      "sni": "apple.com",
+      "fp": "qq",
+      "pbk": "iRym2aMWC0ZoLJL7MtJm9p0xqFMutfe6_5B5tZyobxU",
+      "meta": {
+        "serverDescription": "Premium+ ⭐ VIP-01 • Netherlands"
+      }
+    }
+  ]
+}
